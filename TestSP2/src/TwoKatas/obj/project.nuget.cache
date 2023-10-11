@@ -4,8 +4,8 @@
   "success": true,
   "projectFilePath": "/Users/markusagnsgaard/Test2SP/TestSP2/TwoKatas/TwoKatas.csproj",
   "expectedPackageFiles": [
-    "/Users/markusagnsgaard/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "/Users/markusagnsgaard/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+    "/Users/markusagnsgaard/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/markusagnsgaard/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }
