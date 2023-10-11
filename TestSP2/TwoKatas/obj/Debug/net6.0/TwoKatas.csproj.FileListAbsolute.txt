@@ -1,0 +1,12 @@
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\bin\Debug\net6.0\TwoKatas.deps.json
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\bin\Debug\net6.0\TwoKatas.dll
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\bin\Debug\net6.0\TwoKatas.pdb
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.csproj.AssemblyReference.cache
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.AssemblyInfoInputs.cache
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.AssemblyInfo.cs
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.csproj.CoreCompileInputs.cache
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.dll
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\refint\TwoKatas.dll
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\TwoKatas.pdb
+C:\Users\rappe\Soft2\Test\TestSP2\TestSP2\TwoKatas\obj\Debug\net6.0\ref\TwoKatas.dll
